@@ -1,0 +1,110 @@
+{
+    "full_name": "Центр стоматологической имплантации",
+    "short_name": "Центр стоматологической имплантации",
+    "UNP": "Не указан на сайте",
+    "founded": 1988,
+    "years_in_business": 36,
+    "description": "Первая платная стоматология Минска, работающая с 1988 года. Ведущая клиника с 34-летним опытом имплантации зубов.",
+    "founder": "Александр Сергеевич Дудко",
+    "specialization": "Стоматология полного цикла с фокусом на имплантацию зубов",
+    "address": {
+        "street": "проспект Машерова, 17/2",
+        "city": "Минск",
+        "country": "Беларусь",
+        "full_address": "проспект Машерова, 17/2, Минск"
+    },
+    "contact": {
+        "main_phone": "+375445450910",
+        "phones": ["+375445450910"],
+        "emails": ["Не указаны на сайте"],
+        "website": "https://implant-center.by"
+    },
+    "working_hours": {
+        "monday_to_sunday": "08:30 - 21:00",
+        "director_reception": "1-й вторник месяца 09:00 - 12:00"
+    },
+    "services": [
+        "Имплантация зубов",
+        "ALL-ON-4 имплантация",
+        "ALL-ON-6 имплантация", 
+        "Двухэтапная имплантация с отсроченной нагрузкой",
+        "Имплантация при атрофии костной ткани",
+        "Протезирование зубов",
+        "Зубные коронки",
+        "Лечение зубов",
+        "Пломбирование зубов",
+        "Удаление зубного камня ультразвуком",
+        "Хирургия",
+        "Удаление зуба мудрости",
+        "Ортодонтия"
+    ],
+    "facilities": {
+        "area_sqm": 250,
+        "cabinets": 6,
+        "departments": [
+            "Кабинеты протезирования",
+            "Кабинеты хирургии", 
+            "Кабинеты терапии",
+            "Кабинеты эстетической стоматологии",
+            "Зуботехническая лаборатория",
+            "Кабинет компьютерной лучевой диагностики"
+        ]
+    },
+    "equipment": [
+        "Томограф Vatech PaX-i3D Smart",
+        "Ультразвуковая система VarioSurg3",
+        "CAD-CAM станок Ceramill Motion 2", 
+        "Дентальный микроскоп ZUMAX OMS 2050"
+    ],
+    "partners": [
+        "Nobel Biocare",
+        "Straumann", 
+        "MegaGen",
+        "Osstem",
+        "MIS",
+        "Gradia GC",
+        "Opalescence",
+        "VarioSurg",
+        "Vatech"
+    ],
+    "achievements": {
+        "countries_served": 35,
+        "experience_years": 34,
+        "first_private_clinic_minsk": true,
+        "first_titanium_implants_belarus": true
+    },
+    "patient_countries": [
+        "Беларусь",
+        "Россия", 
+        "Украина",
+        "Казахстан",
+        "Польша",
+        "Литва",
+        "Латвия",
+        "Эстония",
+        "США",
+        "Германия",
+        "Великобритания",
+        "Италия",
+        "Турция",
+        "Китай",
+        "Франция",
+        "Индия"
+    ],
+    "verified_sources": [
+        "https://implant-center.by",
+        "https://implant-center.by/kontakty",
+        "https://implant-center.by/uslugi/implantaciya-zubov"
+    ],
+    "licenses": "Информация о лицензиях не найдена на сайте",
+    "legal_entity_info": "Полная юридическая информация не указана на сайте",
+    "social_media": {
+        "website": "https://implant-center.by",
+        "has_social_presence": true
+    },
+    "rating": {
+        "google_rating": 4.9,
+        "review_count": "500+",
+        "has_positive_reviews": true
+    }
+}
